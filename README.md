@@ -1,7 +1,7 @@
 # Jigsaw Toxicity Classification — Simple Reproduction Project
 
 ## 🚀 Project Overview
-This project is a small study based on the Jigsaw Toxicity Classification competition on Kaggle, focusing on NLP and LLM fine-tuning.
+This project is a competition study based on the Jigsaw Toxicity Classification competition on Kaggle, focusing on NLP and LLM fine-tuning.
 My goal is to reproduce a top-10 score from the past competition.
 
 ## 🛠️ Tech Stack
